@@ -1,0 +1,14 @@
+{
+  "name": "dependabot-repo",
+  "version": "1.0.0",
+  "description": "Sample npm manifest for the Dependabot dependency-scanning GitHub Actions lab.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "express": "^4.17.1"
+  },
+  "license": "MIT"
+}
